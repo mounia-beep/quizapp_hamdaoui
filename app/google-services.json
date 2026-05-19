@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "491242562179",
+    "firebase_url": "https://myquizapplication-74579-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "myquizapplication-74579",
+    "storage_bucket": "myquizapplication-74579.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491242562179:android:7d1252c112a9cb93ddf1b6",
+        "android_client_info": {
+          "package_name": "com.example.my_quiz_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgvg0xZiOD9czfg4jX7DNOgTlzDWAL20M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

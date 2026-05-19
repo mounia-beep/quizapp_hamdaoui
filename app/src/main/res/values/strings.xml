@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My_Quiz_Application</string>
+    <string name="quiz_monitored">🔴 QUIZ SURVEILLÉ PAR CAMÉRA</string>
+    <string name="countdown_start_value">3</string>
+    <string name="start_quiz">COMMENCER LE QUIZ</string>
+    <string name="filming_notice">Vous êtes filmé pendant tout le quiz</string>
+    <string name="chat_title">🤖 Pose ta question à l\'IA</string>
+    <string name="chat_hint">Pose ta question...</string>
+    <string name="btn_vocal">Vocal</string>
+    <string name="btn_envoyer">🤖 Envoyer</string>
+    <string name="btn_retour">← Retour au score</string>
+</resources>
